@@ -1,0 +1,8 @@
+swagger: '2.0'
+info:
+  description: |
+    Esta es la descripción de un ejemplo de archivo con YML
+    para hacer una pequeña prueba
+  version: 0.0.0.1
+  title: Ejemplo de servicio
+  
